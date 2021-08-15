@@ -1,4 +1,6 @@
-# Configurando git
+[Regresar al inicio](./README.md)
+
+# Configurando Git
 
 Configurando los datos del usuario a nivel del S.O para git:
 
